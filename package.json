@@ -1,0 +1,25 @@
+{
+  "name": "day23hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbhurley92/day23hw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbhurley92/day23hw/issues"
+  },
+  "homepage": "https://github.com/jbhurley92/day23hw#readme",
+  "dependencies": {
+    "gulp-browserify": "^0.5.1"
+  },
+  "devDependencies": {
+    "gulp-browserify": "^0.5.1"
+  }
+}

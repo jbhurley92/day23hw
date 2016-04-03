@@ -1,0 +1,70 @@
+.music {
+	border: 3px groove;
+	margin: 3%;
+	background-color: #b2cecf;
+	width: 50%;
+	text-align: center;
+}
+
+html{
+	background-color: #DFD297;
+}
+.drops {
+	height: 100px;
+	width: 50%;
+  align-self: : top;
+	border: 3px solid;
+	margin-left: 650px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+/*.music {
+  border: 2px solid #333;
+  margin: 1.6%;
+  height: 180px;
+  padding: 1%;
+  background-color: #3a4625;
+  color: white;
+  border-radius: 3px;
+  @include span-columns(2);
+  text-align: center;
+}
+.drops {
+  @include span-columns(6);
+  border: 3px solid;
+  border-radius: 3px;
+  text-align: center;
+  height: 210px;
+  font-size: 40px;
+  color:
+  padding-top: 2%;
+}
+#adding {
+  background-color: #14711d;
+}
+#deleting {
+  background-color: #a4250e;
+}
+html {
+  background-color: #7a924d;
+}
+body {
+  @include outer-container;
+}
+h1 {
+  text-align: center;
+  font-size: 65px;
+  color: #ffffff;
+  margin-bottom: 2%;
+}
+*/
